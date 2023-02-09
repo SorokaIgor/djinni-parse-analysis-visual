@@ -1,0 +1,346 @@
+id,vacancy_name,experience,lvl,views,applications,part_of_url
+1,developer,0,junior,1296,293,https://djinni.co/jobs/431369-stazher-js-python-c-/
+2,engineer,0,junior,1119,297,https://djinni.co/jobs/512545-python-engineer-for-ai-based-project/
+3,backend developer,0,junior,1775,497,https://djinni.co/jobs/514025-junior-backend-developer-intern-/
+4,developer,1,junior,203,95,https://djinni.co/jobs/96861-python-developer/
+5,developer integrator,1,junior,204,56,https://djinni.co/jobs/522919-integration-developer-python-/
+6,developer software,1,junior,319,99,https://djinni.co/jobs/522185-junior-python-developer-for-ai-software-produ/
+7,developer,1,junior,146,37,https://djinni.co/jobs/86357-python-developer/
+8,developer fullstack,1,junior,113,35,https://djinni.co/jobs/521631-full-stack-developer-python-vuejs-/
+9,developer,1,junior,188,28,https://djinni.co/jobs/359059-odoo-developer-middle-senior-/
+10,engineer software,1,junior,227,37,https://djinni.co/jobs/521513-junior-software-engineer/
+11,developer,1,junior,363,93,https://djinni.co/jobs/521512-aws-python-django-fastapi-cassandra-dev-on-uk/
+12,developer,1,junior,126,37,https://djinni.co/jobs/520188-middle-python-developer/
+13,backend developer,1,junior,343,106,https://djinni.co/jobs/178782-python-django-backend-developer/
+14,developer,1,junior,549,216,https://djinni.co/jobs/518695-python-developer/
+15,developer,1,junior,176,41,https://djinni.co/jobs/509091-middle-python-developer/
+16,developer,1,junior,289,61,https://djinni.co/jobs/518284-junior-python-developer-uzhhorod-or-mukachevo/
+17,backend developer,1,junior,464,129,https://djinni.co/jobs/134544-python-developer-backend-developer/
+18,developer,1,junior,151,11,https://djinni.co/jobs/473986-python-and-s-s-developer/
+19,engineer,1,junior,328,38,https://djinni.co/jobs/516803-python-etl-engineer-middle-strong-junior/
+20,developer,1,junior,198,43,https://djinni.co/jobs/515852-daas-support-eng/
+21,developer,1,junior,551,90,https://djinni.co/jobs/501096-strong-junior-python-developer/
+22,developer,1,junior,48,9,https://djinni.co/jobs/513823-upskilling-junior-python-developer-bulgaria-/
+23,developer,1,junior,311,71,https://djinni.co/jobs/505763-python-developer/
+24,backend developer,2,middle,6,1,https://djinni.co/jobs/523137-backend-developer-python-/
+25,engineer lead,2,middle,32,5,https://djinni.co/jobs/439920-senior-data-and-content-engineer-lead/
+26,backend developer,2,middle,60,15,https://djinni.co/jobs/522763-middle-senior-back-end-developer-python-/
+27,developer,2,middle,123,29,https://djinni.co/jobs/416410-python-developer/
+28,developer,2,middle,102,9,https://djinni.co/jobs/522349-python-machine-learning-computer-vision-devel/
+29,developer,2,middle,50,2,https://djinni.co/jobs/496348-middle-senior-python-django-developer/
+30,developer,2,middle,59,6,https://djinni.co/jobs/522195-middle-python-developer/
+31,developer,2,middle,54,10,https://djinni.co/jobs/522055-qa-automation-python-/
+32,developer,2,middle,128,44,https://djinni.co/jobs/478604-python-developer/
+33,developer,2,middle,149,45,https://djinni.co/jobs/521885-go-python-developer-armenia-or-kazakhstan-/
+34,developer,2,middle,95,29,https://djinni.co/jobs/521869-python-django-developer/
+35,developer,2,middle,79,14,https://djinni.co/jobs/521803-middle-python-developer/
+36,engineer,2,middle,33,3,https://djinni.co/jobs/511889-computer-vision-engineer/
+37,backend engineer software,2,middle,103,17,https://djinni.co/jobs/335146-middle-python-software-engineer-backend-/
+38,developer fullstack,2,middle,179,19,https://djinni.co/jobs/521399-junior-middle-full-stack-python-developer/
+39,developer fullstack,2,middle,60,7,https://djinni.co/jobs/496114-fullstack-python-developer/
+40,developer,2,middle,111,40,https://djinni.co/jobs/521112-python-django-developer/
+41,developer team,2,middle,45,6,https://djinni.co/jobs/521101-python-developer-custom-plugins-team-/
+42,developer,2,middle,144,34,https://djinni.co/jobs/510152-middle-python-developer/
+43,developer fullstack,2,middle,70,14,https://djinni.co/jobs/520455-full-stack-python-developer/
+44,developer,2,middle,111,30,https://djinni.co/jobs/520139-python-developer/
+45,backend developer,2,middle,121,15,https://djinni.co/jobs/520040-python-backend-developer/
+46,developer,2,middle,208,92,https://djinni.co/jobs/519485-middle-python-developer/
+47,backend developer,2,middle,120,39,https://djinni.co/jobs/410752-python-backend-developer/
+48,developer,2,middle,119,32,https://djinni.co/jobs/464106-python-developer/
+49,developer,2,middle,70,14,https://djinni.co/jobs/463004-middle-python-developer/
+50,engineer,2,middle,78,12,https://djinni.co/jobs/509543-qa-engineer-python-/
+51,developer,2,middle,68,12,https://djinni.co/jobs/519354-python-developer/
+52,developer,2,middle,117,39,https://djinni.co/jobs/519268-middle-python-developer/
+53,backend developer,2,middle,280,62,https://djinni.co/jobs/114331-junior-python-developer-cloud-backend-/
+54,backend developer,2,middle,114,25,https://djinni.co/jobs/411897-backend-python-developer/
+55,developer,2,middle,103,14,https://djinni.co/jobs/518389-python-developer/
+56,developer,2,middle,244,98,https://djinni.co/jobs/290835-middle-django-developer/
+57,backend engineer,2,middle,262,105,https://djinni.co/jobs/518243-python-backend-engineer/
+58,engineer fullstack,2,middle,190,31,https://djinni.co/jobs/518068-fullstack-engineer/
+59,backend developer,2,middle,97,33,https://djinni.co/jobs/294995-middle-python-back-end-developer/
+60,engineer,2,middle,7,2,https://djinni.co/jobs/517572-middle-automation-engineer-python-/
+61,engineer software,2,middle,73,13,https://djinni.co/jobs/517493-middle-python-software-engineer-prom-ua-/
+62,developer,2,middle,69,17,https://djinni.co/jobs/488435-python-developer/
+63,developer,2,middle,175,82,https://djinni.co/jobs/268334-python-developer/
+64,backend developer,2,middle,78,25,https://djinni.co/jobs/517234-middle-backend-developer-python-/
+65,developer,2,middle,21,2,https://djinni.co/jobs/517107-odoo-developer-python-/
+66,developer,2,middle,45,3,https://djinni.co/jobs/396471-mathematician/
+67,developer,2,middle,153,34,https://djinni.co/jobs/444332-python-developer-django-/
+68,engineer software,2,middle,87,11,https://djinni.co/jobs/427952-python-software-engineer/
+69,developer,2,middle,59,17,https://djinni.co/jobs/507550-middle-python-developer/
+70,developer,2,middle,184,38,https://djinni.co/jobs/516653-python-developer/
+71,developer,2,middle,37,14,https://djinni.co/jobs/497757-python-developer-middle-tornado-aiohttp-/
+72,engineer,2,middle,102,7,https://djinni.co/jobs/515757-machine-learning-deep-learning-engineer-progn/
+73,engineer,2,middle,72,5,https://djinni.co/jobs/515755-machine-learning-deep-learning-engineer-poshu/
+74,backend developer,2,middle,102,24,https://djinni.co/jobs/505847-middle-backend-developer-python-/
+75,developer,2,middle,126,41,https://djinni.co/jobs/515264-python-flask-developer/
+76,developer,2,middle,59,23,https://djinni.co/jobs/499724-crawler-for-ivix/
+77,engineer,2,middle,68,8,https://djinni.co/jobs/514811-machine-learning-engineer/
+78,developer,2,middle,34,2,https://djinni.co/jobs/514549-middle-python-odoo-developer/
+79,developer,2,middle,126,66,https://djinni.co/jobs/514529-ivix-crawler-python-/
+80,engineer,2,middle,42,11,https://djinni.co/jobs/483351-middle-python-django-engineer-recommender-/
+81,engineer software,2,middle,67,11,https://djinni.co/jobs/506633-middle-python-software-engineer-shafa-ua-/
+82,developer,2,middle,240,52,https://djinni.co/jobs/505016-python-developer-middle-/
+83,developer fullstack,2,middle,63,12,https://djinni.co/jobs/514268-full-stack-developer-vue-js-python-/
+84,developer,2,middle,85,14,https://djinni.co/jobs/514248-python-inzhener-big-data-ai-/
+85,developer,2,middle,166,34,https://djinni.co/jobs/481841-python-developer/
+86,developer,2,middle,69,5,https://djinni.co/jobs/513643-middle-python-developer/
+87,developer,2,middle,110,24,https://djinni.co/jobs/481342-middle-senior-python-developer/
+88,developer software tech,2,middle,53,5,https://djinni.co/jobs/513523-mid-level-software-developer-for-funded-finte/
+89,engineer software,2,middle,42,8,https://djinni.co/jobs/513072-software-engineer-python-c-/
+90,backend developer,2,middle,254,66,https://djinni.co/jobs/395492-middle-python-backend-developer/
+91,developer,2,middle,175,21,https://djinni.co/jobs/324711-python-django-developer/
+92,developer,2,middle,18,4,https://djinni.co/jobs/512696-middle-python-developer-poland-only-/
+93,developer,3,middle/senior,11,0,https://djinni.co/jobs/158518-python-developer/
+94,engineer software,3,middle/senior,7,0,https://djinni.co/jobs/406398-software-engineer/
+95,backend developer,3,middle/senior,18,0,https://djinni.co/jobs/523052-senior-backend-python-developer/
+96,developer fullstack,3,middle/senior,23,1,https://djinni.co/jobs/523035-senior-full-stack-developer-python-/
+97,engineer software,3,middle/senior,20,3,https://djinni.co/jobs/523017-strong-middle-software-python-engineer/
+98,developer lead tech,3,middle/senior,9,0,https://djinni.co/jobs/522912-tech-lead-python-developer/
+99,developer,3,middle/senior,80,27,https://djinni.co/jobs/522948-middle-senior-python-developer/
+100,developer,3,middle/senior,20,2,https://djinni.co/jobs/435984-python-developer/
+101,developer,3,middle/senior,39,13,https://djinni.co/jobs/522776-python-react-react-native-developer/
+102,developer,3,middle/senior,18,4,https://djinni.co/jobs/522490-middle-python-developer/
+103,engineer fullstack,3,middle/senior,17,2,https://djinni.co/jobs/522746-fullstack-engineer/
+104,engineer fullstack lead,3,middle/senior,52,9,https://djinni.co/jobs/522675-lead-full-stack-engineer/
+105,developer,3,middle/senior,35,1,https://djinni.co/jobs/522516-python-developer/
+106,developer,3,middle/senior,41,3,https://djinni.co/jobs/522411-middle-python-developer/
+107,engineer software,3,middle/senior,52,14,https://djinni.co/jobs/522339-software-engineer-python-/
+108,engineer,3,middle/senior,32,2,https://djinni.co/jobs/473617-python-django-engineer/
+109,developer,3,middle/senior,43,15,https://djinni.co/jobs/172969-python-developer/
+110,developer fullstack,3,middle/senior,40,13,https://djinni.co/jobs/522245-full-stack-developer/
+111,developer fullstack,3,middle/senior,16,0,https://djinni.co/jobs/522202-python-full-stack-developer/
+112,developer,3,middle/senior,28,2,https://djinni.co/jobs/522077-middle-python-developer-fintech-project-/
+113,backend developer,3,middle/senior,22,9,https://djinni.co/jobs/522060-middle-senior-backend-developer-python-django/
+114,developer,3,middle/senior,23,8,https://djinni.co/jobs/80025-middle-python-developer/
+115,developer lead tech,3,middle/senior,15,0,https://djinni.co/jobs/521840-senior-lead-python-developer-with-fintech-exp/
+116,engineer fullstack,3,middle/senior,35,2,https://djinni.co/jobs/500060-blockchain-engineer-smart-contracts-full-stac/
+117,engineer,3,middle/senior,35,6,https://djinni.co/jobs/521758-python-engineer/
+118,developer fullstack,3,middle/senior,10,0,https://djinni.co/jobs/521727-middle-strong-full-stack-python-react-develop/
+119,engineer,3,middle/senior,44,1,https://djinni.co/jobs/521726-algorithm-verification-engineer/
+120,developer lead tech,3,middle/senior,10,0,https://djinni.co/jobs/521681-senior-lead-python-developer-with-fintech-exp/
+121,developer,3,middle/senior,89,18,https://djinni.co/jobs/521490-etl-developer/
+122,developer,3,middle/senior,60,6,https://djinni.co/jobs/408292-middle-senior-python-developer/
+123,developer,3,middle/senior,136,43,https://djinni.co/jobs/521318-python-developer/
+124,engineer,3,middle/senior,22,1,https://djinni.co/jobs/521159-robotics-advanced-automation-engineer/
+125,developer,3,middle/senior,55,5,https://djinni.co/jobs/520968-python-developer-kubernetes-docker/
+126,developer,3,middle/senior,64,9,https://djinni.co/jobs/483611-middle-python-developer/
+127,developer fullstack,3,middle/senior,18,4,https://djinni.co/jobs/520885-python-full-stack-developer/
+128,developer,3,middle/senior,54,14,https://djinni.co/jobs/509446-senior-python-developer/
+129,engineer fullstack,3,middle/senior,41,3,https://djinni.co/jobs/520749-middle-full-stack-engineer/
+130,backend engineer software,3,middle/senior,22,5,https://djinni.co/jobs/520724-middle-python-software-engineer-backend-/
+131,developer,3,middle/senior,23,0,https://djinni.co/jobs/520428-senior-python-developer/
+132,developer,3,middle/senior,39,2,https://djinni.co/jobs/477693-middle-senior-python-developer/
+133,developer,3,middle/senior,65,6,https://djinni.co/jobs/519556-python-developer/
+134,developer,3,middle/senior,235,78,https://djinni.co/jobs/520446-python-django-developer/
+135,developer,3,middle/senior,25,2,https://djinni.co/jobs/520389-python-developer/
+136,developer,3,middle/senior,425,129,https://djinni.co/jobs/520363-middle-python-developer/
+137,developer fullstack,3,middle/senior,24,2,https://djinni.co/jobs/520324-middle-full-stack-developer-react-python-/
+138,developer,3,middle/senior,42,3,https://djinni.co/jobs/520307-python-developer/
+139,engineer ml,3,middle/senior,24,2,https://djinni.co/jobs/520172-ml-cv-engineer/
+140,developer,3,middle/senior,70,10,https://djinni.co/jobs/520049-midlle-python-developer/
+141,developer,3,middle/senior,25,2,https://djinni.co/jobs/520026-python-developer-mid-/
+142,developer,3,middle/senior,19,0,https://djinni.co/jobs/491480-senior-python-developer/
+143,developer,3,middle/senior,51,13,https://djinni.co/jobs/431967-senior-python-dev/
+144,developer,3,middle/senior,42,6,https://djinni.co/jobs/519707-python-developer/
+145,backend developer,3,middle/senior,13,5,https://djinni.co/jobs/519503-middle-back-end-developer/
+146,engineer,3,middle/senior,74,7,https://djinni.co/jobs/519467-machine-learning-engineer/
+147,developer,3,middle/senior,101,14,https://djinni.co/jobs/519364-python-developer/
+148,developer fullstack,3,middle/senior,111,37,https://djinni.co/jobs/519273-python-full-stack-developer/
+149,engineer fullstack,3,middle/senior,32,12,https://djinni.co/jobs/468859-senior-full-stack-engineer-python-django-java/
+150,developer,3,middle/senior,89,4,https://djinni.co/jobs/509224-sdet-python-dlia-kompaniyi-iaka-zaimaiet-sia-/
+151,developer,3,middle/senior,46,7,https://djinni.co/jobs/509950-python-developer/
+152,engineer software,3,middle/senior,151,53,https://djinni.co/jobs/165945-python-software-engineer/
+153,backend developer,3,middle/senior,34,6,https://djinni.co/jobs/519139-middle-senior-backend-developer-python-django/
+154,developer,3,middle/senior,102,33,https://djinni.co/jobs/519089-senior-python-developer/
+155,developer,3,middle/senior,41,8,https://djinni.co/jobs/519046-python-developer-with-aws-experience/
+156,developer,3,middle/senior,16,3,https://djinni.co/jobs/518916-python-developer/
+157,developer fullstack,3,middle/senior,10,0,https://djinni.co/jobs/518778-senior-python-full-stack-developer/
+158,developer,3,middle/senior,85,13,https://djinni.co/jobs/518777-python-developer-middle-/
+159,developer lead,3,middle/senior,43,15,https://djinni.co/jobs/518660-lead-developer-python-vue-js-/
+160,developer,3,middle/senior,41,10,https://djinni.co/jobs/518422-python-flask-developer/
+161,devops engineer,3,middle/senior,22,4,https://djinni.co/jobs/475797-senior-python-engineer-with-devops/
+162,developer fullstack,3,middle/senior,9,0,https://djinni.co/jobs/518342-senior-python-full-stack-developer-python-vue/
+163,developer,3,middle/senior,37,7,https://djinni.co/jobs/518254-strong-middle-python-developer/
+164,developer fullstack,3,middle/senior,20,1,https://djinni.co/jobs/518200-full-stack-developer-vue-python-/
+165,developer,3,middle/senior,108,40,https://djinni.co/jobs/518192-str-middle-senior-python-architect-2037-03/
+166,developer,3,middle/senior,107,29,https://djinni.co/jobs/323357-python-cloud-developer/
+167,developer fullstack,3,middle/senior,14,1,https://djinni.co/jobs/517993-python-full-stack-developer/
+168,developer fullstack,3,middle/senior,16,1,https://djinni.co/jobs/517912-python-full-stack-developer/
+169,engineer,3,middle/senior,83,28,https://djinni.co/jobs/508492-python-engineer-savannah-group-uk/
+170,engineer software,3,middle/senior,3,1,https://djinni.co/jobs/517822-software-and-mlops-engineer-python-warsaw-/
+171,developer,3,middle/senior,48,9,https://djinni.co/jobs/509143-python-developer-middle-/
+172,backend developer,3,middle/senior,12,1,https://djinni.co/jobs/471109-python-django-backend-developer/
+173,engineer,3,middle/senior,61,17,https://djinni.co/jobs/517611-python-engineer/
+174,developer,3,middle/senior,41,10,https://djinni.co/jobs/517588-python-developer/
+175,developer,3,middle/senior,131,65,https://djinni.co/jobs/517517-middle-senior-python-developer/
+176,engineer software,3,middle/senior,79,13,https://djinni.co/jobs/517354-python-software-engineer/
+177,engineer integrator software,3,middle/senior,37,3,https://djinni.co/jobs/517118-customer-software-integration-engineer/
+178,developer,3,middle/senior,17,3,https://djinni.co/jobs/516879-senior-python-developer-for-our-product-edu-/
+179,developer,3,middle/senior,42,4,https://djinni.co/jobs/508294-middle-python-developer/
+180,developer,3,middle/senior,40,13,https://djinni.co/jobs/516859-python-developer/
+181,developer,3,middle/senior,49,19,https://djinni.co/jobs/450703-senior-python-developer/
+182,lead,3,middle/senior,23,1,https://djinni.co/jobs/516787-head-of-python-discipline-warsaw-poland-/
+183,developer,3,middle/senior,113,30,https://djinni.co/jobs/456465-middle-or-strong-middle-python-django-develop/
+184,backend developer,3,middle/senior,67,9,https://djinni.co/jobs/516752-python-back-end-developer/
+185,developer,3,middle/senior,10,3,https://djinni.co/jobs/498460-python-developer-uk-product-company-/
+186,developer,3,middle/senior,67,7,https://djinni.co/jobs/507923-python-developer/
+187,engineer software,3,middle/senior,32,1,https://djinni.co/jobs/437731-senior-software-python-engineer/
+188,engineer software,3,middle/senior,76,10,https://djinni.co/jobs/497068-python-software-engineer/
+189,developer,3,middle/senior,63,5,https://djinni.co/jobs/514288-django-developer/
+190,developer,3,middle/senior,133,43,https://djinni.co/jobs/341993-senior-python-developer/
+191,developer,3,middle/senior,79,18,https://djinni.co/jobs/408048-python-developer-for-a-product-company/
+192,developer,3,middle/senior,126,55,https://djinni.co/jobs/516274-python-developer/
+193,developer,3,middle/senior,41,5,https://djinni.co/jobs/507569-python-developer/
+194,developer,3,middle/senior,18,3,https://djinni.co/jobs/507769-python-developer/
+195,developer fullstack,3,middle/senior,60,21,https://djinni.co/jobs/515916-senior-fullstack-developer-python-and-react-/
+196,developer,3,middle/senior,23,3,https://djinni.co/jobs/356110-python-developer-senior-/
+197,backend developer,3,middle/senior,107,10,https://djinni.co/jobs/497345-backend-developer-python-/
+198,developer fullstack,3,middle/senior,36,1,https://djinni.co/jobs/515841-fullstack-python-react-developer/
+199,developer tech,3,middle/senior,47,8,https://djinni.co/jobs/515731-python-developer-for-edtech-company/
+200,backend developer,3,middle/senior,36,4,https://djinni.co/jobs/505722-middle-pro-senior-python-back-end-developer/
+201,developer,3,middle/senior,39,8,https://djinni.co/jobs/515485-python-flask-developer/
+202,developer,3,middle/senior,97,34,https://djinni.co/jobs/434698-senior-python-developer/
+203,engineer,3,middle/senior,31,3,https://djinni.co/jobs/515415-senior-python-engineer-blockchain-domain-/
+204,developer,3,middle/senior,30,6,https://djinni.co/jobs/515395-python-developer/
+205,developer,3,middle/senior,42,14,https://djinni.co/jobs/514877-str-middle-senior-python-developer-czech-or-s/
+206,developer,3,middle/senior,54,10,https://djinni.co/jobs/514592-python-developer/
+207,developer,3,middle/senior,79,7,https://djinni.co/jobs/514540-rozrobnik-chat-botiv-v-telegram/
+208,developer,3,middle/senior,48,12,https://djinni.co/jobs/490755-strong-middle-level-python-developer/
+209,developer,3,middle/senior,176,75,https://djinni.co/jobs/514512-python-developer/
+210,engineer,3,middle/senior,27,7,https://djinni.co/jobs/514505-middle-python-django-engineer-recommender-/
+211,developer,3,middle/senior,38,7,https://djinni.co/jobs/514402-python-developer/
+212,developer,3,middle/senior,60,5,https://djinni.co/jobs/496550-python-developer-directly-british-product-com/
+213,backend developer,3,middle/senior,93,5,https://djinni.co/jobs/500010-backend-developer-python-/
+214,developer,3,middle/senior,207,81,https://djinni.co/jobs/514264-python-django-developer/
+215,developer fullstack,3,middle/senior,72,32,https://djinni.co/jobs/514265-senior-middle-fullstack-django-react-develope/
+216,developer,3,middle/senior,34,7,https://djinni.co/jobs/514009-middle-python-developer-for-our-product-edu-/
+217,engineer,3,middle/senior,19,0,https://djinni.co/jobs/494977-video-engineer-python-s-/
+218,developer fullstack,3,middle/senior,26,3,https://djinni.co/jobs/513501-middle-senior-full-stack-developer-vue-js-pyt/
+219,developer,3,middle/senior,57,9,https://djinni.co/jobs/513434-senior-python-developer/
+220,developer,3,middle/senior,68,9,https://djinni.co/jobs/513377-python-developer/
+221,developer,3,middle/senior,22,2,https://djinni.co/jobs/126674-senior-python-developer/
+222,backend developer,3,middle/senior,13,6,https://djinni.co/jobs/513158-backend-python-developer/
+223,developer,3,middle/senior,151,40,https://djinni.co/jobs/402198-middle-senior-python-developer/
+224,developer fullstack,3,middle/senior,97,31,https://djinni.co/jobs/513148-full-stack-python-django-developer/
+225,engineer,3,middle/senior,23,1,https://djinni.co/jobs/513080-firmware-python-verification-engineer/
+226,developer fullstack,3,middle/senior,24,6,https://djinni.co/jobs/513062-fullstack-developer-python-vue-/
+227,developer,3,middle/senior,44,5,https://djinni.co/jobs/513060-python-developer/
+228,developer,3,middle/senior,8,0,https://djinni.co/jobs/462392-senior-game-mathematician-python-/
+229,developer,3,middle/senior,9,0,https://djinni.co/jobs/196498-senior-python-developer/
+230,developer,3,middle/senior,40,6,https://djinni.co/jobs/246801-python-developer/
+231,developer,3,middle/senior,42,1,https://djinni.co/jobs/512706-python-developer/
+232,engineer,3,middle/senior,194,96,https://djinni.co/jobs/512660-python-django-engineer/
+233,developer,3,middle/senior,40,4,https://djinni.co/jobs/512415-middle-senior-python-developer/
+234,developer,5,senior,8,3,https://djinni.co/jobs/512092-senior-python-developer/
+235,engineer,5,senior,7,1,https://djinni.co/jobs/522984-senior-python-engineer/
+236,engineer,5,senior,49,8,https://djinni.co/jobs/522925-senior-python-engineer/
+237,engineer software,5,senior,8,0,https://djinni.co/jobs/522848-software-engineer-php-nodejs-python-scraping-/
+238,engineer lead,5,senior,5,0,https://djinni.co/jobs/522844-technical-lead-engineering-director-for-ai-pr/
+239,engineer,5,senior,11,1,https://djinni.co/jobs/522772-senior-python-engineer-at-ai-project/
+240,backend developer,5,senior,30,8,https://djinni.co/jobs/522690-senior-backend-developer-for-bookaway-group-g/
+241,engineer,5,senior,24,5,https://djinni.co/jobs/522661-senior-python-engineer/
+242,developer,5,senior,3,1,https://djinni.co/jobs/522584-senior-python-developer/
+243,developer,5,senior,26,5,https://djinni.co/jobs/522573-str-middle-senior-python-developer-2037-03/
+244,backend engineer lead team tech,5,senior,32,3,https://djinni.co/jobs/480484-team-tech-lead-backend-engineer/
+245,developer,5,senior,61,13,https://djinni.co/jobs/522334-python-developer/
+246,backend engineer,5,senior,18,2,https://djinni.co/jobs/522326-senior-backend-engineer/
+247,backend,5,senior,20,1,https://djinni.co/jobs/522254-senior-backend-engineer-python-/
+248,developer fullstack,5,senior,41,9,https://djinni.co/jobs/522237-fullstack-python-react-developer/
+249,developer,5,senior,70,14,https://djinni.co/jobs/522135-senior-python-developer/
+250,lead team,5,senior,26,5,https://djinni.co/jobs/522127-python-team-lead/
+251,developer,5,senior,12,0,https://djinni.co/jobs/522076-strong-middle-python-developer-fintech-projec/
+252,developer,5,senior,19,3,https://djinni.co/jobs/152567-senior-python-developer/
+253,engineer,5,senior,49,9,https://djinni.co/jobs/316705-python-engineer-sr/
+254,backend developer,5,senior,3,0,https://djinni.co/jobs/521737-senior-backend-developer-erlang-nodejs-/
+255,developer,5,senior,33,10,https://djinni.co/jobs/521721-senior-python-developer/
+256,engineer,5,senior,15,2,https://djinni.co/jobs/521715-middle-python-engineer/
+257,developer,5,senior,2,0,https://djinni.co/jobs/521628-senior-python-developer-with-airflow-or-dbt-f/
+258,backend engineer,5,senior,215,21,https://djinni.co/jobs/521439-senior-python-backend-engineer/
+259,developer,5,senior,55,4,https://djinni.co/jobs/521451-python-developer/
+260,backend developer,5,senior,46,2,https://djinni.co/jobs/459496-senior-backend-python-developer/
+261,developer,5,senior,26,4,https://djinni.co/jobs/521421-senior-python-developer-fintech-project-/
+262,developer,5,senior,33,0,https://djinni.co/jobs/521407-senior-python-developer/
+263,backend engineer,5,senior,93,16,https://djinni.co/jobs/521344-senior-back-end-engineer-python-/
+264,developer,5,senior,22,0,https://djinni.co/jobs/500731-itc-intelligent-traffic-control-experience-py/
+265,developer fullstack,5,senior,27,1,https://djinni.co/jobs/521116-senior-full-stack-developer-python-/
+266,lead tech,5,senior,47,3,https://djinni.co/jobs/521126-tech-lead-lead-python/
+267,developer,5,senior,23,3,https://djinni.co/jobs/521045-senior-python-developer/
+268,engineer lead,5,senior,4,1,https://djinni.co/jobs/520808-technical-lead-engineering-director-for-ai-pr/
+269,backend engineer,5,senior,19,2,https://djinni.co/jobs/520641-senior-backend-engineer/
+270,developer,5,senior,7,2,https://djinni.co/jobs/520593-senior-cloud-developer/
+271,developer fullstack,5,senior,33,4,https://djinni.co/jobs/520502-full-stack-python-react-developer/
+272,engineer,5,senior,27,4,https://djinni.co/jobs/520052-senior-python-engineer/
+273,developer,5,senior,40,10,https://djinni.co/jobs/520044-python-developer-with-azure-romania-or-bulgar/
+274,integrator,5,senior,28,3,https://djinni.co/jobs/442300-supplier-integration-specialist-xslt-/
+275,engineer software,5,senior,47,5,https://djinni.co/jobs/519945-software-engineer-python-/
+276,developer,5,senior,7,0,https://djinni.co/jobs/519733-senior-python-developer-with-aws/
+277,backend engineer lead ml,5,senior,68,15,https://djinni.co/jobs/519699-lead-backend-engineer-ai-ml-/
+278,developer,5,senior,46,4,https://djinni.co/jobs/519680-python-data-modelling-developer-poland-o-relo/
+279,developer,5,senior,53,4,https://djinni.co/jobs/519682-senior-python-data-developer/
+280,backend engineer,5,senior,69,14,https://djinni.co/jobs/519643-senior-backend-engineer/
+281,fullstack,5,senior,26,0,https://djinni.co/jobs/519611-senior-full-stack-for-a-direct-competitor-to-/
+282,tech,5,senior,27,0,https://djinni.co/jobs/519261-python-tech-expert-10-30-hours-monthly-/
+283,backend lead tech,5,senior,6,1,https://djinni.co/jobs/415607-backend-tech-lead-python/
+284,developer,5,senior,45,6,https://djinni.co/jobs/518953-senior-python-developer/
+285,developer,5,senior,9,0,https://djinni.co/jobs/518789-senior-python-developer-with-aws-azure-google/
+286,developer,5,senior,1,0,https://djinni.co/jobs/509806-senior-python-developer-sofia-/
+287,backend engineer,5,senior,72,14,https://djinni.co/jobs/500133-senior-python-backend-engineer/
+288,backend engineer,5,senior,7,0,https://djinni.co/jobs/500172-senior-backend-engineer/
+289,backend engineer lead team,5,senior,2,1,https://djinni.co/jobs/500173-team-lead-senior-backend-engineer/
+290,backend engineer,5,senior,4,1,https://djinni.co/jobs/500170-senior-python-backend-engineer/
+291,backend engineer lead team,5,senior,1,0,https://djinni.co/jobs/500169-team-lead-senior-python-backend-engineer/
+292,developer,5,senior,51,7,https://djinni.co/jobs/509691-python-developer/
+293,developer,5,senior,24,4,https://djinni.co/jobs/518626-str-middle-senior-python-developer/
+294,engineer,5,senior,16,1,https://djinni.co/jobs/518596-senior-python-engineer/
+295,lead tech,5,senior,38,7,https://djinni.co/jobs/507307-tech-lead-python-/
+296,developer,5,senior,132,21,https://djinni.co/jobs/518324-python-developer/
+297,lead tech,5,senior,17,2,https://djinni.co/jobs/469588-python-tech-lead/
+298,engineer,5,senior,23,1,https://djinni.co/jobs/518054-senior-python-engineer/
+299,engineer fullstack,5,senior,16,0,https://djinni.co/jobs/518066-senior-fullstack-engineer/
+300,developer,5,senior,2,0,https://djinni.co/jobs/504312-senior-python-developer-digital-banking-/
+301,developer,5,senior,17,1,https://djinni.co/jobs/517988-senior-python-developer/
+302,engineer lead,5,senior,12,0,https://djinni.co/jobs/517907-lead-aws-cloud-engineer/
+303,developer,5,senior,32,2,https://djinni.co/jobs/517903-python-developer/
+304,backend engineer software,5,senior,27,3,https://djinni.co/jobs/517887-senior-software-back-end-engineer-in-usa-prod/
+305,backend engineer,5,senior,41,10,https://djinni.co/jobs/517592-senior-back-end-engineer/
+306,engineer,5,senior,35,6,https://djinni.co/jobs/517567-senior-python-engineer-neolithics-ai/
+307,engineer fullstack software,5,senior,5,1,https://djinni.co/jobs/517472-senior-fullstack-software-engineer-react-pyth/
+308,developer,5,senior,20,1,https://djinni.co/jobs/517461-we-are-looking-for-an-experienced-senior-pyth/
+309,developer,5,senior,29,7,https://djinni.co/jobs/517312-senior-python-developer/
+310,developer software,5,senior,83,19,https://djinni.co/jobs/517192-python-software-developer/
+311,developer,5,senior,23,5,https://djinni.co/jobs/517178-senior-python-developer/
+312,developer team,5,senior,5,1,https://djinni.co/jobs/508486-senior-python-developer-for-ciklum-team/
+313,engineer lead,5,senior,24,0,https://djinni.co/jobs/516917-senior-lead-python-engineer-irc175826/
+314,developer lead,5,senior,5,0,https://djinni.co/jobs/516899-lead-python-developer-with-net-c-work-only-fr/
+315,developer,5,senior,27,6,https://djinni.co/jobs/516889-python-serverless-developer/
+316,lead tech,5,senior,38,8,https://djinni.co/jobs/460991-python-tech-lead/
+317,developer,5,senior,26,4,https://djinni.co/jobs/516814-python-developer/
+318,lead team,5,senior,25,3,https://djinni.co/jobs/516795-python-team-lead/
+319,developer,5,senior,23,1,https://djinni.co/jobs/516789-senior-python-developer/
+320,developer,5,senior,46,2,https://djinni.co/jobs/516705-python-developer/
+321,backend engineer,5,senior,64,11,https://djinni.co/jobs/477216-senior-backend-engineer-python-/
+322,engineer software,5,senior,17,0,https://djinni.co/jobs/221706-senior-software-engineer-python-/
+323,backend developer,5,senior,23,2,https://djinni.co/jobs/491045-senior-back-end-developer/
+324,engineer,5,senior,49,0,https://djinni.co/jobs/516039-computer-vision-and-machine-learning-engineer/
+325,engineer lead,5,senior,19,1,https://djinni.co/jobs/515886-technical-lead-engineering-director-for-ai-pr/
+326,backend developer,5,senior,6,4,https://djinni.co/jobs/483430-python-back-end-developer/
+327,developer,5,senior,62,7,https://djinni.co/jobs/515740-python-data-modelling-developer-poland-or-rel/
+328,developer,5,senior,36,2,https://djinni.co/jobs/507725-python-django-developer/
+329,engineer,5,senior,34,0,https://djinni.co/jobs/515729-senior-data-engineer/
+330,developer,5,senior,13,3,https://djinni.co/jobs/515687-senior-python-developer-only-poland-or-hungar/
+331,backend developer,5,senior,9,1,https://djinni.co/jobs/515396-backend-developer-python-and-java-/
+332,developer lead,5,senior,69,9,https://djinni.co/jobs/506739-senior-lead-python-developer-relocation-to-th/
+333,developer,5,senior,12,7,https://djinni.co/jobs/514942-senior-python-developer/
+334,developer,5,senior,103,20,https://djinni.co/jobs/514752-python-developer/
+335,developer,5,senior,43,3,https://djinni.co/jobs/514694-python-developer/
+336,developer,5,senior,18,1,https://djinni.co/jobs/514421-senior-python-developer/
+337,engineer,5,senior,13,5,https://djinni.co/jobs/514279-python-data-engineer-s-/
+338,engineer software,5,senior,15,0,https://djinni.co/jobs/514171-senior-qa-automation-software-engineer/
+339,developer fullstack,5,senior,47,11,https://djinni.co/jobs/514168-full-stack-developer/
+340,developer,5,senior,58,10,https://djinni.co/jobs/495337-senior-python-serverless-developer-on-foodtec/
+341,developer,5,senior,44,11,https://djinni.co/jobs/494502-senior-python-developer/
+342,backend engineer,5,senior,73,3,https://djinni.co/jobs/290221-senior-python-backend-engineer/
+343,developer,5,senior,42,3,https://djinni.co/jobs/512929-str-middle-senior-python-developer-2037-03/
+344,developer,5,senior,18,2,https://djinni.co/jobs/512734-senior-python-developer-with-aws/
+345,backend lead team,5,senior,36,2,https://djinni.co/jobs/504063-backend-team-lead-python-germany-permanent-co/
