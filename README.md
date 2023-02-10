@@ -16,10 +16,11 @@ A few words about project:
     - python_vacancies(list with all vacancies which we will look for)
 3. If you want parse not python vacancies you could change BASE_PYTHON_URL, actual frameworks, vacancies in the files above and in file parse.py in line 121 parameter cutoff to 0.8!Like in picture below:
 ![image](https://user-images.githubusercontent.com/110998159/218035026-3480ff1f-b558-4223-91f3-ab2b6d86013d.png)
+![image](https://user-images.githubusercontent.com/110998159/218035084-afb56fd6-6b4d-4162-8223-691ced2554d3.png)
 
 4. I left a file to show you what information we will look for in the djinni.
 ![image](https://user-images.githubusercontent.com/110998159/215090468-8f097699-4d1a-4b8f-ac48-784baf389233.png)
-![image](https://user-images.githubusercontent.com/110998159/218035084-afb56fd6-6b4d-4162-8223-691ced2554d3.png)
+
 
 !!! TO START PROGRAMM please INSTALL requirements.txt !!!
 
